@@ -9,8 +9,7 @@
 int main(void)
 {
 	/* Use puts to print the text */
-	puts("\"Programming is like building a multilingual puzzle");
-    
+	puts("\"Programming is like building a multilingual puzzle");    
 	/* Returns ) upon successful completion*/
 	return (0);
 }
