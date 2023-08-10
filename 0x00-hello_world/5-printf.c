@@ -3,8 +3,8 @@
 /*
  * main - Entry point
  *
- * Description : prints a text using the printf function
- * Return : Always 0 (Success)
+ * Description: prints a text using the printf function
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
