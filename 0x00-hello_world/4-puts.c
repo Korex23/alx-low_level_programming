@@ -8,9 +8,9 @@
  */
 int main(void)
 {
-    /* Use puts to print the text */
-    puts("\"Programming is like building a multilingual puzzle");
+	/* Use puts to print the text */
+	puts("\"Programming is like building a multilingual puzzle");
     
-    /* Returns ) upon successful completion*/
-    return (0);
+	/* Returns ) upon successful completion*/
+	return (0);
 }
