@@ -1,16 +1,12 @@
 #include <stdio.h>
 
-/*
- * main - prints text using printf followed by a new line
- *
- * Description: prints"with proper grammar, but the outcome is a piece of art,"
- * using the printf function
- * Return: Always 0 (Success)
+/**
+ * main - prints "with proper grammar, followed newline
+ * Return: Always 0.
  */
+
 int main(void)
 {
-	/* Use printf to print the text */
 	printf("with proper grammar, but the outcome is a piece of art,\n");
-	/* Return 0 on successfull completion */
 	return (0);
 }
