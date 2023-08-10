@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - Entry point
+ * main - prints text using printf followed by a new line
  *
  * Description: prints"with proper grammar, but the outcome is a piece of art,"
  * using the printf function
