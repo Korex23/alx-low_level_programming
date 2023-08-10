@@ -2,6 +2,7 @@
 
 /*
  * main - prints out the size of different data types
+ *
  * Return: Always 0 (success)
  */
 int main(void)
