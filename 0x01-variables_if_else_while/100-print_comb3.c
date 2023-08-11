@@ -14,7 +14,7 @@ int main(void)
 	{
 		for (q = p + 1; q <= 9; q++)
 		{
-			putchar(p + '0')
+			putchar(p + '0');
 			putchar(q + '0');
 			if (p == 8 && q == 9)
 			{
