@@ -4,9 +4,9 @@
  * print_rev - prints a strign in reverse
  * @s: string to be printed
  */
-void print_rev(char *s);
+void print_rev(char *s)
 {
-	char *ptr = s + strlen(s) - 1;
+	char *ptr = s + _strlen(s) - 1;
 
 	while (ptr >= s)
 	{
